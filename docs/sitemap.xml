@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://edify42.github.io/politics/</loc>
     <lastmod>2021-08-01T11:52:59+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://edify42.github.io/politics/posts/</loc>
     <lastmod>2021-08-01T11:52:59+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/housing-affordability/</loc>
+    <loc>https://edify42.github.io/politics/posts/housing-affordability/</loc>
     <lastmod>2021-08-01T11:52:59+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://edify42.github.io/politics/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://edify42.github.io/politics/tags/</loc>
   </url>
 </urlset>

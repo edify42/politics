@@ -2,3 +2,58 @@ baseURL = "https://edify42.github.io/politics"
 languageCode = "en-us"
 title = "politics by tedk42"
 theme = "soho"
+
+[params]
+author = "Ed Kim"
+description = ""
+
+## Set one of:
+# gravatar = "soho@example.com"
+profilePicture = "images/fire.png"
+  ## Set as many as you want.
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "#"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "#"
+
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4

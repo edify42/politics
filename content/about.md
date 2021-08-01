@@ -9,3 +9,5 @@ Born late 80s in Australia.
 Grew up in Western Suburbs Sydney.
 
 Married, maybe with kids soon. Has 1 dog.
+
+![alt text](me_n_bmo.jpg "BMO and I")

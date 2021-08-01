@@ -1,0 +1,4 @@
+baseURL = "https://example.org/"
+languageCode = "en-us"
+title = "politics by tedk42"
+theme = "soho"

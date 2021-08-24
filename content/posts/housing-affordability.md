@@ -1,7 +1,7 @@
 ---
 title: "Property is a ponzi scheme"
 date: 2021-08-01T11:52:59+10:00
-draft: true
+draft: false
 ---
 
 It wasn't always like this, at least not for as long as I remember. I'm

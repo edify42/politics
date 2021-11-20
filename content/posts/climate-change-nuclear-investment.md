@@ -1,7 +1,7 @@
 ---
 title: "Climate Change Nuclear Investment"
 date: 2021-10-10T13:41:44+11:00
-draft: true
+draft: false
 ---
 
 Climate action is long overdue. Nuclear power investment is inevitable. The
@@ -44,12 +44,12 @@ technologies, but governments are not incentivising or allowing nuclear
 techonology to proliferate.
 
 While it's possible for an eccentric billionaire to fund an electric car
-company, you'd need a whole lot more than that to begin a nuclear energy
+company, you need a lot more than that to begin a nuclear energy
 revolution globally. It needs to start with governments allowing and
-incentivising this kind of research for civilian usage, rather than [building
+incentivising this for civilian usage, rather than [building
 nuclear 'submarines'](https://www.abc.net.au/news/2021-09-16/australia-nuclear-submarine-partnership-us-uk/100465814)
-and continuing the negative stain of nuclear usage in
-military or 'defence' purposes.
+and continuing the negative stain of nuclear usage in military or 'defence'
+purposes.
 
 ## Overly pro-renewable is negative
 
@@ -63,16 +63,26 @@ ubiquitously available carbon based fuel sources to drive their economies.
 
 ![alt text](energy-usage-per-capita-yearly.png "energy usage per capita")
 
+Sunshine is not fixed and solar is an inconsistent and unpredictable energy
+source (though a very good one!). I want to emphasise that nuclear gives us a
+consistent base load of power to expect. You can drop in a modern thorium
+reactor to a new town you want to build and it'll be the thing that powers the
+development that happens.
+
 ## Nuclear is expensive?
 
 Yes, it is. The more we do it the better we'll get at it and the cheaper it
-will become. Not to mention all the red-tape which has been
+will become. Not to mention all the red-tape which has been added to make it
+hard to do it cheaply.
 
 ## What would Ted do?
 
 What would I do if it were up to me? I would make available for sale large
-capacity nuclear power generation units. Imagine private enterprises out there
-which manufacture and produce 
+capacity nuclear power generation units (portable thorium reactors). Imagine
+private enterprises which manufacture and produce these reactors that can
+simply be installed or deployed to any site around the world. They are entirely
+self contained and once the fuel runs out there would be a pickup of the unit
+to be properly decommissioned and broken down for parts to be rebuilt.
 
 ## Final thoughts
 
